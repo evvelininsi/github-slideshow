@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main ();
+printf ("Kacinci ilk kodum bu acaba  :))");
+return 0;
+}
